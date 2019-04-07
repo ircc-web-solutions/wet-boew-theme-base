@@ -1,0 +1,24 @@
+{
+  "name": "wet-boew-theme-base",
+  "version": "1.0.0",
+  "description": "Web Experience Toolkit (WET): Theme Base (Styles to baseline wet-boew themes)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ircc-web-solutions/wet-boew-theme-base.git"
+  },
+  "keywords": [
+    "web",
+    "sass",
+    "wet-boew"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ircc-web-solutions/wet-boew-theme-base/issues"
+  },
+  "homepage": "https://github.com/ircc-web-solutions/wet-boew-theme-base#readme"
+}
